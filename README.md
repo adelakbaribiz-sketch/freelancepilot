@@ -1,5 +1,7 @@
 # FreelancePilot
 
+**Win international freelance work in your own language: find matching projects across marketplaces, read them translated, and send a polished proposal you approve.**
+
 **Status: Demo / Prototype — portfolio project, not an active product.**
 Every claim below is qualified with what's real vs. simulated. See
 [`docs/LIMITATIONS.md`](docs/LIMITATIONS.md) for the exhaustive breakdown —
@@ -48,6 +50,10 @@ what a user would actually click through — is real and working.
 | ![Project detail showing the Persian translation next to an editable, human-approved proposal draft](docs/screenshots/project-translation.png) | ![Proposals sent vs. won and win rate by platform](docs/screenshots/analytics.png) |
 | **Landing page** | **Dark mode** |
 | ![Landing page](docs/screenshots/landing.png) | ![Dashboard in dark mode](docs/screenshots/dashboard-dark.png) |
+
+| Mobile | 
+|---|
+| <img src="docs/screenshots/mobile.png" alt="Dashboard on a phone-sized screen" width="260"> |
 
 *Captured from the demo running locally. Projects, proposals and metrics are mock data; translation and proposal drafting are simulated — see [Honest status](#honest-status).*
 
