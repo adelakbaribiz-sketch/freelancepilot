@@ -51,9 +51,11 @@ what a user would actually click through — is real and working.
 | **Landing page** | **Dark mode** |
 | ![Landing page](docs/screenshots/landing.png) | ![Dashboard in dark mode](docs/screenshots/dashboard-dark.png) |
 
-| Mobile | 
-|---|
-| <img src="docs/screenshots/mobile.png" alt="Dashboard on a phone-sized screen" width="260"> |
+<p>
+  <img src="docs/screenshots/mobile.png" alt="Dashboard on a phone-sized screen" width="260">
+</p>
+
+*Phone-sized screen (390 px wide).*
 
 *Captured from the demo running locally. Projects, proposals and metrics are mock data; translation and proposal drafting are simulated — see [Honest status](#honest-status).*
 
