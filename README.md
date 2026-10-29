@@ -10,6 +10,8 @@ discover projects across marketplaces, read them translated into your own
 language, and send a native-quality proposal — with a human always
 reviewing and approving before anything goes out.
 
+![Dashboard — skill-matched projects, win rate and connected platforms (mock data)](docs/screenshots/dashboard.png)
+
 ## Problem
 
 Freelancers competing on international marketplaces (Upwork, Freelancer.com,
@@ -38,6 +40,16 @@ what a user would actually click through — is real and working.
 | Skills, platform connections, language, AI preference | `/settings` |
 | Conversational assistant over the current workspace | `/assistant` |
 | Full EN/FA localization with RTL layout mirroring, dark mode, mobile nav | app-wide |
+
+## Screenshots
+
+| Project brief with Persian translation + editable AI-drafted proposal | Analytics |
+|---|---|
+| ![Project detail showing the Persian translation next to an editable, human-approved proposal draft](docs/screenshots/project-translation.png) | ![Proposals sent vs. won and win rate by platform](docs/screenshots/analytics.png) |
+| **Landing page** | **Dark mode** |
+| ![Landing page](docs/screenshots/landing.png) | ![Dashboard in dark mode](docs/screenshots/dashboard-dark.png) |
+
+*Captured from the demo running locally. Projects, proposals and metrics are mock data; translation and proposal drafting are simulated — see [Honest status](#honest-status).*
 
 ## Demo
 
