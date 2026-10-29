@@ -1,5 +1,7 @@
 # FreelancePilot
 
+**Win international freelance work in your own language: find matching projects across marketplaces, read them translated, and send a polished proposal you approve.**
+
 **Status: Demo / Prototype — portfolio project, not an active product.**
 Every claim below is qualified with what's real vs. simulated. See
 [`docs/LIMITATIONS.md`](docs/LIMITATIONS.md) for the exhaustive breakdown —
@@ -9,6 +11,8 @@ An AI-copilot concept for freelancers whose first language isn't English:
 discover projects across marketplaces, read them translated into your own
 language, and send a native-quality proposal — with a human always
 reviewing and approving before anything goes out.
+
+![Dashboard — skill-matched projects, win rate and connected platforms (mock data)](docs/screenshots/dashboard.png)
 
 ## Problem
 
@@ -38,6 +42,22 @@ what a user would actually click through — is real and working.
 | Skills, platform connections, language, AI preference | `/settings` |
 | Conversational assistant over the current workspace | `/assistant` |
 | Full EN/FA localization with RTL layout mirroring, dark mode, mobile nav | app-wide |
+
+## Screenshots
+
+| Project brief with Persian translation + editable AI-drafted proposal | Analytics |
+|---|---|
+| ![Project detail showing the Persian translation next to an editable, human-approved proposal draft](docs/screenshots/project-translation.png) | ![Proposals sent vs. won and win rate by platform](docs/screenshots/analytics.png) |
+| **Landing page** | **Dark mode** |
+| ![Landing page](docs/screenshots/landing.png) | ![Dashboard in dark mode](docs/screenshots/dashboard-dark.png) |
+
+<p>
+  <img src="docs/screenshots/mobile.png" alt="Dashboard on a phone-sized screen" width="260">
+</p>
+
+*Phone-sized screen (390 px wide).*
+
+*Captured from the demo running locally. Projects, proposals and metrics are mock data; translation and proposal drafting are simulated — see [Honest status](#honest-status).*
 
 ## Demo
 
