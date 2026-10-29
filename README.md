@@ -48,14 +48,14 @@ what a user would actually click through — is real and working.
 | Project brief with Persian translation + editable AI-drafted proposal | Analytics |
 |---|---|
 | ![Project detail showing the Persian translation next to an editable, human-approved proposal draft](docs/screenshots/project-translation.png) | ![Proposals sent vs. won and win rate by platform](docs/screenshots/analytics.png) |
-| **Landing page** | **Dark mode** |
-| ![Landing page](docs/screenshots/landing.png) | ![Dashboard in dark mode](docs/screenshots/dashboard-dark.png) |
+| **Landing page** | **Proposals** |
+| ![Landing page](docs/screenshots/landing.png) | ![Proposal history with status tracking](docs/screenshots/proposals.png) |
 
 <p>
   <img src="docs/screenshots/mobile.png" alt="Dashboard on a phone-sized screen" width="260">
 </p>
 
-*Phone-sized screen (390 px wide).*
+*Phone-sized screen (390 px wide). Screenshots use the dark theme; the app also has a light theme.*
 
 *Captured from the demo running locally. Projects, proposals and metrics are mock data; translation and proposal drafting are simulated — see [Honest status](#honest-status).*
 
